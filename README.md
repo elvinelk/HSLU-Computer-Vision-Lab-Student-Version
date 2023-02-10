@@ -1,4 +1,13 @@
-# Computer Vision Lab (HSLU)
+# Project structure
+
+1. Data preparation
+2. Initial CNN models
+3. Data augmentation
+4. Transfer learning?
+5. Generating new cancer images
+6. Performance?
+
+# Guidlines: Computer Vision Lab (HSLU) 
 
 ## Project Format
 
