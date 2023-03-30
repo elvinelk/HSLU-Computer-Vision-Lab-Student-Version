@@ -1,12 +1,10 @@
 # Project structure
 
-1. Data preparation
-2. Initial CNN models
-3. Data augmentation
-4. Transfer learning?
-5. Generating new cancer images
-6. Performance?
+This repository contains the notebooks and data related to the computer vision blockweek at HSLU in February 2023.
+Each member of our group (Giancarlo, Philipp, Levin) tried to classify skin tissue using different CNN architectures.
 
+The results that were presented on the 30.03.2023 are contained in the script in the folder "Image_classification_Giancarlo". 
+Furthermore, the Variational Autoencoderscripts are present in the related folder.
 ## Data
 
 This data set represents a collection of textures in histological images of human colorectal cancer. It contains two files:
