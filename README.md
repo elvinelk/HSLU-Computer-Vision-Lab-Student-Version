@@ -4,7 +4,7 @@ This repository contains the notebooks and data related to the computer vision b
 Each member of our group (Giancarlo, Philipp, Levin) tried to classify skin tissue using different CNN architectures.
 
 The results that were presented on the 30.03.2023 are contained in the script in the folder "Image_classification_Giancarlo". 
-Furthermore, the Variational Autoencoderscripts are present in the related folder.
+Furthermore, the Variational Autoencoderscripts are present in the related folder too.
 ## Data
 
 This data set represents a collection of textures in histological images of human colorectal cancer. It contains two files:
